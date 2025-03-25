@@ -29,9 +29,9 @@
 
 ### 느낌이 잘 표현되는 이미지
 
-![Image](https://github.com/user-attachments/assets/b71c788e-8044-4ca4-85af-ef1865acc6ad)
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/b71c788e-8044-4ca4-85af-ef1865acc6ad"  />
 
-<img width="601" alt="Image" src="https://github.com/user-attachments/assets/4d9ed7e2-726f-4859-9640-f44e8f4b10fc" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/4d9ed7e2-726f-4859-9640-f44e8f4b10fc" />
 
 
 
@@ -39,7 +39,7 @@
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/8075d84f-7072-4ace-9596-6b9ca682bcd6" />
 
-<img width="601" alt="Image" src="https://github.com/user-attachments/assets/20f332e5-89e5-4102-8ff2-c3e1946a33a1" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/20f332e5-89e5-4102-8ff2-c3e1946a33a1" />
 
 
 
