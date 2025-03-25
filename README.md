@@ -25,11 +25,21 @@
     cartoon = cv2.bitwise_and(img_color, img_edge)
 ```
 
+
+
 ### 느낌이 잘 표현되는 이미지
+
+<img width="601" alt="Image" src="https://github.com/user-attachments/assets/71461aae-05ab-403b-81e3-21fde49643a8" />
+
+<img width="601" alt="Image" src="https://github.com/user-attachments/assets/4d9ed7e2-726f-4859-9640-f44e8f4b10fc" />
 
 
 
 ### 느낌이 잘 표현되지 않는 이미지
+
+<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/8075d84f-7072-4ace-9596-6b9ca682bcd6" />
+
+<img width="601" alt="Image" src="https://github.com/user-attachments/assets/20f332e5-89e5-4102-8ff2-c3e1946a33a1" />
 
 
 
