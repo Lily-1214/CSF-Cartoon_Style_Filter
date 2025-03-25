@@ -29,7 +29,7 @@
 
 ### 느낌이 잘 표현되는 이미지
 
-<img width="601" alt="Image" src="https://github.com/user-attachments/assets/71461aae-05ab-403b-81e3-21fde49643a8" />
+![Image](https://github.com/user-attachments/assets/b71c788e-8044-4ca4-85af-ef1865acc6ad)
 
 <img width="601" alt="Image" src="https://github.com/user-attachments/assets/4d9ed7e2-726f-4859-9640-f44e8f4b10fc" />
 
